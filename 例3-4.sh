@@ -1,0 +1,5 @@
+echo "*abc"
+echo "$string"
+echo "\string"
+echo "\#string"
+echo "\$string"
