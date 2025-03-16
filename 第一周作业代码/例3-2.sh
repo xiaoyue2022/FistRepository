@@ -1,0 +1,2 @@
+echo #aabbccdd
+echo \#aabbccdd
