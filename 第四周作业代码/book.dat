@@ -1,0 +1,10 @@
+123455678900000000aaaa
+asfasdfasdfasdf
+sdfas
+total 76
+-rw-r--r-- 1 lyq lyq 45249 2014-04-17 00:33 abc.png
+-rw-r--r-- 1 lyq lyq    67 2014-04-17 00:37 book.dat
+-rwxr-xr-x 1 lyq lyq  7290 2014-04-17 00:30 readlock
+-rw------- 1 lyq lyq   566 2014-04-17 00:30 readlock.c
+-rwxr-xr-x 1 lyq lyq  7291 2014-04-17 00:31 writelock
+-rw------- 1 lyq lyq   743 2014-04-17 00:30 writelock.c
